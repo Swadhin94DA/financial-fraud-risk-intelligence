@@ -120,6 +120,23 @@ Financial_Fraud_Risk_Intelligence/
 │
 ├── .gitignore
 └── README.md
-```bash
-git add README.md
-git status
+
+## Dashboard Preview
+
+### 1. Fraud Risk Executive Overview
+
+![Fraud Risk Executive Overview](screenshots/dashboard_1_executive_overview.png)
+
+### 2. Fraud Pattern & Intelligence
+
+![Fraud Pattern & Intelligence](screenshots/dashboard_2_fraud_pattern_intelligence.png)
+
+### 3. Fraud Risk & Investigation
+
+![Fraud Risk & Investigation](screenshots/dashboard_3_risk_investigation.png)
+
+## Project Report
+
+The complete project documentation is available here:
+
+[Financial Fraud Detection & Risk Intelligence Project Report](reports/Financial%20Fraud%20Detection%20%26%20Risk%20Intelligence%20Project%20Report.pdf)
