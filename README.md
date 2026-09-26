@@ -140,3 +140,7 @@ Financial_Fraud_Risk_Intelligence/
 The complete project documentation is available here:
 
 [Financial Fraud Detection & Risk Intelligence Project Report](reports/Financial%20Fraud%20Detection%20%26%20Risk%20Intelligence%20Project%20Report.pdf)
+
+## Tableau Public Dashboard
+
+[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/swadhin.dibyajyoti/viz/FinancialFraudRiskIntelligence/FraudRiskInvestigation?publish=yes)
