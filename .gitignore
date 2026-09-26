@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Tableau temporary and lock files
+*.twb~
+.~*.twbr
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Secrets and environment files
+.env
+*.env
+
+# Model/cache files
+*.pkl
+*.joblib
